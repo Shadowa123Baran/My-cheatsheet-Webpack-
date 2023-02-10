@@ -3,7 +3,7 @@
 ## My-cheatsheet-Webpack-
 ### Day 2. I am learning presets, in this repository there are many different and interesting works collected by me during my learning.
 
-### To make everything work, you need to install "node_modules" into every tasks
+### To make everything work, you need to install "node_modules" into every tasks.
 
 ### Before that, you need to download node.js
 
